@@ -57,7 +57,7 @@
   "request": "^2.88.2",
   "scrape-primbon": "^1.1.0",
   "similarity": "^1.2.1",
-  "sharp": "0.29.3",
+  "sharp": "0.30.5",
   "util": "^0.12.4",
   "xfarr-api": "^1.0.0",
   "yargs": "^17.2.1",
